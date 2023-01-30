@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Oscar Canales</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
-- 🔭 I’m currently working on [Package Please](https://github.com/IsaaColomer/PackagePlease3d)
-
-- 🌱 I’m currently learning **Unreal and Python**
-
 - 💬 Ask me about **Unity and Unreal video game development**
 
 - 📫 How to reach me **linkedin.com/in/òscarcanales**
 
-- 👨‍💻 All of my projects are available at [https://oscarcanales.carrd.co/](https://oscarcanales.carrd.co/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://oscarcanales.carrd.co/)
+
+- 🌱 I’m currently learning **Unreal and Python**
+
+- 🔭 I’m currently working on [Package Please](https://github.com/IsaaColomer/PackagePlease3d)
 
 - 🏆 Winner of the [Gran CITM Jam 5th Ed](https://itch.io/jam/gran-citm-game-jam-2022)
 
