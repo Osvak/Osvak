@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **linkedin.com/in/òscarcanales**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://oscarcanales.carrd.co/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://oscarcanales.carrd.co/)
 
 - 🌱 I’m currently learning **Unreal and Python**
 
