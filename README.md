@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **linkedin.com/in/òscarcanales**
 
+- 👨‍💻 All of my projects are available at [https://oscarcanales.carrd.co/](https://oscarcanales.carrd.co/)
+
 - 🏆 Winner of the [Gran CITM Jam 5th Ed](https://itch.io/jam/gran-citm-game-jam-2022)
 
 <h3 align="left">Connect with me:</h3>
